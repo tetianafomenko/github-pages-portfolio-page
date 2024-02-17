@@ -2,7 +2,7 @@
 ## _Tinker with Thought: Head in the Clouds, Hands in the Dirt_
 
 ### Projects
-1. TBC
+1. [Terminal game of Tic-Tac-Toe]([url](https://github.com/tetianafomenko/Tic-Tac-Toe))
 2. TBC
 3. TBC
 
