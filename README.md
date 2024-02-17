@@ -1,14 +1,14 @@
 # Data Scientist in Training
-## Tinker with Thought: Head in the Clouds, Hands in the Dirt
+## _Tinker with Thought: Head in the Clouds, Hands in the Dirt_
 
 ### Education
-- (2013 - 2016) Bachelor of Psychology/Bachelor of Criminology (Double Degree)@ Griffith University;
-- (2023 - 2026) Master of Applied Data Science @ University of Adelaide.
+- (_2013 - 2016_) Bachelor of Psychology/Bachelor of Criminology (Double Degree)@ Griffith University;
+- (_2023 - 2026_) Master of Applied Data Science @ University of Adelaide.
 
 ### Work Experience
-- (2021 - 2022) Customer Success Manager @ [WLTH](wlth.com);
-- (2022 - 2023) Broker Network Associate @ [WLTH](wlth.com);
-- (2023 - current) Customer Success Manager @ [Fair Supply](fairsupply.com).
+- (_2021 - 2022_) Customer Success Manager @ [WLTH](wlth.com);
+- (_2022 - 2023_) Broker Network Associate @ [WLTH](wlth.com);
+- (_2023 - current_) Customer Success Manager @ [Fair Supply](fairsupply.com).
 
 ### Projects
 1. TBC
