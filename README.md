@@ -10,9 +10,9 @@
 - (2023 - current) Customer Success Manager @ [Fair Supply](fairsupply.com);
 
 ### Projects
-1. one
-2. two
-3. three
+1. TBC
+2. TBC
+3. TBC
 
 
 ### Hobbies
