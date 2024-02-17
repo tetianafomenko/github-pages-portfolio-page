@@ -7,7 +7,7 @@
 ### Work Experience
 - (2021 - 2022) Customer Success Manager @ [WLTH](wlth.com);
 - (2022 - 2023) Broker Network Associate @ [WLTH](wlth.com);
-- (2023 - current) Customer Success Manager @ [Fair Supply](fairsupply.com);
+- (2023 - current) Customer Success Manager @ [Fair Supply](fairsupply.com).
 
 ### Projects
 1. TBC
