@@ -27,4 +27,4 @@
 ### Hobbies
 - weightlifting;
 - reading (here are my Goodreads and Readwise profiles);
-- exploring new hikes and coffee spots with my dog and husband.
+- exploring new hikes and coffee spots with my husband and dog.
