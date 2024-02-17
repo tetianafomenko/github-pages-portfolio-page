@@ -1,4 +1,5 @@
 # Data Scientist in Training
+## Tinker with Thought: Head in the Clouds, Hands in the Dirt
 
 ### Education
 - (2013 - 2016) Bachelor of Psychology/Bachelor of Criminology (Double Degree)@ Griffith University;
