@@ -16,8 +16,8 @@
   - Crisp-DM
 
 ### Education
-- (_2013 - 2016_) | Bachelor of Psychology/Bachelor of Criminology (Double Degree) @ Griffith University;
-- (_2023 - 2026_) | Master of Applied Data Science @ University of Adelaide.
+- (_2013 - 2016_) Bachelor of Psychology/Bachelor of Criminology (Double Degree) @ Griffith University;|
+- (_2023 - 2026_) Master of Applied Data Science @ University of Adelaide.|
 
 ### Work Experience 
 - (_2021 - 2022_) Customer Success Manager @ [WLTH](wlth.com);
